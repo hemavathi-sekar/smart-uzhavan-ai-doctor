@@ -6,8 +6,6 @@
 
 ---
 
-## 🏆 Project Highlights (Why it wins 1st Prize in Hackathons)
-
 1. **🌾 Universal Plant & Tree Support (அனைத்து இலைகள், பயிர்கள், மரங்கள்)**:
    - Covers not just tomatoes, but **Paddy, Brinjal, Banana, Mango, Citrus/Lemon, Guava, Cotton, Pear, Apple, Jasmine, Pepper, Papaya, Coconut, Sugarcane, Rose**, and any agricultural/horticultural leaf.
 2. **🎙️ Studio-Grade 100% Natural Human Tamil Voice**:
